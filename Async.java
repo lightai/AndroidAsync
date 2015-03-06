@@ -1,5 +1,3 @@
-package com.pinguo.lib.os;
-
 import android.os.Handler;
 import android.os.Looper;
 
